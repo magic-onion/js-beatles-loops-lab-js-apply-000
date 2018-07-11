@@ -17,3 +17,5 @@ function theBeatlesPlay(musicians, instruments) {
 
   return arr
 }
+
+${musicians[i]}
