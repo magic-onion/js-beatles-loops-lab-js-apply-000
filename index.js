@@ -9,7 +9,7 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 
-function theBeatlesPlay(musicians, instruments) {
+//function theBeatlesPlay(musicians, instruments) {
   const barr = [];
   
   for (let i = 0, l = musicans.length; i < l; i++) { 
