@@ -3,7 +3,7 @@ var musicians = [
   "Paul"
   ]
   
-const instruments = [
+var instruments = [
   "Guitar"
   ]  
 function theBeatlesPlay(musicians, instruments) {
