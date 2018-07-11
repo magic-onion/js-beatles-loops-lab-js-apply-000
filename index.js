@@ -8,7 +8,7 @@ var musicians = [
 
 var instruments - [
   "Guitar",
-  "Guitar",
+  "Lead Guitar",
   "Drums",
   "Bass"
   ]
