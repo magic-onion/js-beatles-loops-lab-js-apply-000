@@ -10,5 +10,5 @@ var instruments - [
   "Guitar",
   "Lead Guitar",
   "Drums",
-  "Bass"
+  "Drums"
   ]
