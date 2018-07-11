@@ -1,7 +1,7 @@
 function theBeatlesPlay(musicians, instruments) {
     const barr = []
     
-    for (let i = 0, l = musicians.length; i < l; i++) {
+    for (let i = 0; i < musicians.length; i++) {
       barr.push(`${musicians[i]} plays ${instruments[i]}`)
     }
     
@@ -25,6 +25,6 @@ function iLoveTheBeatles(n) {
   do {
     arr.push('I love the Beatles!')
     n++
-  } while (n < 100)
+  } while (n < 10)
   return arr
 }
