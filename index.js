@@ -6,7 +6,7 @@ var musicians = [
   "Ringo Starr"
   ]
 
-var instruments - [
+var instruments = [
   "Guitar",
   "Bass Guitar",
   "Lead Guitar",
