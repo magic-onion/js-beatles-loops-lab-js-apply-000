@@ -20,9 +20,11 @@ var instruments = [
   "Drums"
   ]
 
+
 function theBeatlesPlay() {
   var i;
 for (i = 0; i < musicians.length + instruments.length; i++) { 
     musicians[i] + "plays" + instruments[i];
 }
 }
+
