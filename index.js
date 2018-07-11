@@ -1,7 +1,7 @@
 // add solution here
-const facts = [
- "He was the last Beatle to learn to drive",
-  "He was never a vegetarian",
+//const facts = [
+// "He was the last Beatle to learn to drive",
+//  "He was never a vegetarian",
 "He was a choir boy and a boy scout",
 "He hated the sound of his own voice"
  ]
