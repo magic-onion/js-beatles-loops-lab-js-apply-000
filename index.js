@@ -1,11 +1,11 @@
 // add solution here
+var 
+
+function theBeatlesPlay(musicians, instruments) {
 var musicians = [
   "paul",
   "john"
-  ]
-
-function theBeatlesPlay(musicians, instruments) {
-var array = [];
+  ];
 for (let i = 0; i < musicians.length; i++) { 
    array.push('musicians[i] plays')
 }
